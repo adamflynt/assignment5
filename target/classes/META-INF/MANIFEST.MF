@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: adamflynt
+Build-Jdk: 15
+Implementation-Title: Assignment5
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.meritamerica.assignment5
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/assignment5/
+Created-By: Maven Integration for Eclipse
+
